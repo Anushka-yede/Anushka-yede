@@ -1,6 +1,6 @@
 <h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="50" />
-  Hey, I'm Anushka Yede! 👋
+  <img src="https://media.giphy.com/media/11s7Ke7jcNxCHS/giphy.gif" width="50" />
+  Hey, I'm Anushka Yede! 👩‍💻
 </h2>
 
 <p align="center">
@@ -8,8 +8,16 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="600" alt="Coding GIF" />
+  <!-- Girl with Laptop Animation -->
+  <img src="https://media.giphy.com/media/LpcO9n4v0KZ6M/giphy.gif" width="500" alt="Girl Coding" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-%23FF7F50?style=for-the-badge&logo=map-marker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-%232E8B57?style=for-the-badge&logo=green&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ---
 
