@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-"<img width="500" height="350" alt="image" src=""https://www.magnific.com/premium-vector/business-people-working-laptop_299519017.htm#fromView=keyword&page=1&position=36&uuid=42e78e8e-2843-443b-8c1e-0111974b56d9&query=Girl+coding+with+laptop"" />
+"<img width="500" height="350" alt="image" src="https://www.magnific.com/premium-vector/business-people-working-laptop_299519017.htm#fromView=keyword&page=1&position=36&uuid=42e78e8e-2843-443b-8c1e-0111974b56d9&query=Girl+coding+with+laptop" />
 "/>
 </p>
 
