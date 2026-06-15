@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="500" alt="Girl Coding"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif"/>
 </p>
 
 <div align="center">
