@@ -1,23 +1,19 @@
 <h2 align="center">
-  <img src="https://media.giphy.com/media/11s7Ke7jcNxCHS/giphy.gif" width="50" />
-  Hey, I'm Anushka Yede! 👩‍💻
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>
+  Hey, I'm Anushka Yede! 👋
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=35&lines=IoT+Engineer+%7C+AI+Enthusiast+%7C+Full+Stack+Dev+%7C+Cybersecurity+Nerd&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=FF6B9D&size=38&lines=IoT+Engineer+%7C+AI+Enthusiast+%7C+Full+Stack+Dev+%7C+Cybersecurity+Nerd&center=true&width=500&height=50" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <!-- Girl with Laptop Animation -->
-  <img src="https://media.giphy.com/media/LpcO9n4v0KZ6M/giphy.gif" width="500" alt="Girl Coding" />
+  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="500" alt="Girl Coding"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-%23FF7F50?style=for-the-badge&logo=map-marker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-%232E8B57?style=for-the-badge&logo=green&logoColor=white" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYAs5E2oIDCq9So/giphy.gif" width="60"/>
+</div>
 
 ---
 
